@@ -8,7 +8,6 @@ Sistema de gestión de personal
 * Spring  5.0.8
 * Spring Data JPA
 * Spring Security 5.0.7
-* Hibernate 5
 * JSON Web Token (JWT)
 * MySQL
 * Maven
