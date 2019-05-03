@@ -14,5 +14,16 @@ Sistema de gestión de personal
 * AngularJS
 * Se utiliza servidor embebido: Jetty
 
+---
+
++ Al acceder a **SGP** con el rol _admin_ es posible gestionar los usuarios de la aplicación:
+
+![Test Image 1](/screenshots/Home_AdminRole.png)
+
+
++ Al acceder a **SGP** con el rol _user_ se accede únicamente a la gestión de los empleados:
+
+![Test Image 2](/screenshots/Home_UserRole.png)
+
 
 
