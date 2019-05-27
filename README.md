@@ -12,7 +12,7 @@ Sistema de gestión de personal
 * MySQL
 * Maven
 * AngularJS
-* Se utiliza servidor embebido: Jetty
+* Servidor embebido: Jetty
 
 ---
 
